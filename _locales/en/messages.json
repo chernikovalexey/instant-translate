@@ -1,0 +1,489 @@
+{
+	"Kernel_AppName": {
+		"message": "instant translate"
+	},
+
+	"Kernel_AppDescription": {
+		"message": "Instant translation of a selected text."
+	},
+
+	"Kernel_SettingsTitle": {
+		"message": "Settings"
+	},
+
+	"Kernel_HistoryTitle": {
+		"message": "History of translations"
+	},
+
+	"Kernel_DonateTitle": {
+		"message": "Donate"
+	},
+
+	"Kernel_OptionEnabled": {
+		"message": "Enabled"
+	},
+
+	"Kernel_Plaque_TranslateTo": {
+		"message": "Translate to"
+	},
+
+	"Kernel_Network_Error": {
+		"message": "Connection error"
+	},
+
+	"Kernel_Network_Error_DataLoading": {
+		"message": "Could not load data due to possible problems with the Internet connection."
+	},
+
+	"Kernel_Lang_Auto": {
+		"message": "Automatic detection"
+	},
+
+	"Kernel_Lang_Afrikaans": {
+		"message": "Afrikaans"
+	},
+
+	"Kernel_Lang_Albanian": {
+		"message": "Albanian"
+	},
+
+	"Kernel_Lang_Arabic": {
+		"message": "Arabic"
+	},
+
+	"Kernel_Lang_Armenian": {
+		"message": "Armenian"
+	},
+
+	"Kernel_Lang_Azerbaijani": {
+		"message": "Azerbaijani"
+	},
+
+	"Kernel_Lang_Basque": {
+		"message": "Basque"
+	},
+
+	"Kernel_Lang_Belarusian": {
+		"message": "Belarusian"
+	},
+
+	"Kernel_Lang_Bengali": {
+		"message": "Bengali"
+	},
+
+	"Kernel_Lang_Bulgarian": {
+		"message": "Bulgarian"
+	},
+
+	"Kernel_Lang_Catalan": {
+		"message": "Catalan"
+	},
+
+	"Kernel_Lang_ChineseSimplified": {
+		"message": "Simplified Chinese"
+	},
+
+	"Kernel_Lang_ChineseTraditional": {
+		"message": "Traditional Chinese"
+	},
+
+	"Kernel_Lang_Croatian": {
+		"message": "Croatian"
+	},
+
+	"Kernel_Lang_Czech": {
+		"message": "Czech"
+	},
+
+	"Kernel_Lang_Danish": {
+		"message": "Danish"
+	},
+
+	"Kernel_Lang_Dutch": {
+		"message": "Dutch"
+	},
+
+	"Kernel_Lang_English": {
+		"message": "English"
+	},
+
+	"Kernel_Lang_Esperanto": {
+		"message": "Esperanto"
+	},
+
+	"Kernel_Lang_Estonian": {
+		"message": "Estonian"
+	},
+
+	"Kernel_Lang_Filipino": {
+		"message": "Filipino"
+	},
+
+	"Kernel_Lang_Finnish": {
+		"message": "Finnish"
+	},
+
+	"Kernel_Lang_French": {
+		"message": "French"
+	},
+
+	"Kernel_Lang_Galician": {
+		"message": "Galician"
+	},
+
+	"Kernel_Lang_Georgian": {
+		"message": "Georgian"
+	},
+
+	"Kernel_Lang_German": {
+		"message": "German"
+	},
+
+	"Kernel_Lang_Greek": {
+		"message": "Greek"
+	},
+
+	"Kernel_Lang_Gujarati": {
+		"message": "Gujarati"
+	},
+
+	"Kernel_Lang_HaitianCreole": {
+		"message": "Haitian Creole"
+	},
+
+	"Kernel_Lang_Hebrew": {
+		"message": "Hebrew"
+	},
+
+	"Kernel_Lang_Hindi": {
+		"message": "Hindi"
+	},
+
+	"Kernel_Lang_Hungarian": {
+		"message": "Hungarian"
+	},
+
+	"Kernel_Lang_Icelandic": {
+		"message": "Icelandic"
+	},
+
+	"Kernel_Lang_Indonesian": {
+		"message": "Indonesian"
+	},
+
+	"Kernel_Lang_Irish": {
+		"message": "Irish"
+	},
+
+	"Kernel_Lang_Italian": {
+		"message": "Italian"
+	},
+
+	"Kernel_Lang_Japanese": {
+		"message": "Japanese"
+	},
+
+	"Kernel_Lang_Kannada": {
+		"message": "Kannada"
+	},
+
+	"Kernel_Lang_Korean": {
+		"message": "Korean"
+	},
+
+	"Kernel_Lang_Latin": {
+		"message": "Latin"
+	},
+
+	"Kernel_Lang_Latvian": {
+		"message": "Latvian"
+	},
+
+	"Kernel_Lang_Lithuanian": {
+		"message": "Lithuanian"
+	},
+
+	"Kernel_Lang_Macedonian": {
+		"message": "Macedonian"
+	},
+
+	"Kernel_Lang_Malay": {
+		"message": "Malay"
+	},
+
+	"Kernel_Lang_Maltese": {
+		"message": "Maltese"
+	},
+
+	"Kernel_Lang_Norwegian": {
+		"message": "Norwegian"
+	},
+
+	"Kernel_Lang_Persian": {
+		"message": "Persian"
+	},
+
+	"Kernel_Lang_Polish": {
+		"message": "Polish"
+	},
+
+	"Kernel_Lang_Portuguese": {
+		"message": "Portuguese"
+	},
+
+	"Kernel_Lang_Romanian": {
+		"message": "Romanian"
+	},
+
+	"Kernel_Lang_Russian": {
+		"message": "Russian"
+	},
+
+	"Kernel_Lang_Serbian": {
+		"message": "Serbian"
+	},
+
+	"Kernel_Lang_Slovak": {
+		"message": "Slovak"
+	},
+
+	"Kernel_Lang_Slovenian": {
+		"message": "Slovenian"
+	},
+
+	"Kernel_Lang_Spanish": {
+		"message": "Spanish"
+	},
+
+	"Kernel_Lang_Swahili": {
+		"message": "Swahili"
+	},
+
+	"Kernel_Lang_Swedish": {
+		"message": "Swedish"
+	},
+
+	"Kernel_Lang_Tamil": {
+		"message": "Tamil"
+	},
+
+	"Kernel_Lang_Telugu": {
+		"message": "Telugu"
+	},
+
+	"Kernel_Lang_Thai": {
+		"message": "Thai"
+	},
+
+	"Kernel_Lang_Turkish": {
+		"message": "Turkish"
+	},
+
+	"Kernel_Lang_Ukrainian": {
+		"message": "Ukrainian"
+	},
+
+	"Kernel_Lang_Urdu": {
+		"message": "Urdu"
+	},
+
+	"Kernel_Lang_Vietnamese": {
+		"message": "Vietnamese"
+	},
+
+	"Kernel_Lang_Welsh": {
+		"message": "Welsh"
+	},
+
+	"Kernel_Lang_Yiddish": {
+		"message": "Yiddish"
+	},
+
+	"Window_Content_TextareaPlaceholder": {
+		"message": "Enter or copy a text here to translate.."
+	},
+
+	"Window_Content_TranslateButton": {
+		"message": "Translate"
+	},
+
+	"Window_Content_RecentlyUsedLang": {
+		"message": "Recently used"
+	},
+
+	"Window_Content_AllLang": {
+		"message": "All"
+	},
+
+	"Settings_Tabs_Translation": {
+		"message": "Translation"
+	},
+
+	"Settings_Tabs_Interface": {
+		"message": "Interface"
+	},
+
+	"Settings_Translation_KeyCombos": {
+		"message": "Key combinations"
+	},
+
+	"Settings_Translation_KeyCombos_Description": {
+		"message": "Selected text is translated when you press the specified key combination."
+	},
+
+	"Settings_Translation_Context": {
+		"message": "Context menu"
+	},
+
+	"Settings_Translation_Context_Description": {
+		"message": "A button which is appended to the context menu of the browser and which is designed to ease translation, when you are not able to use the keyboard."
+	},
+
+	"Settings_Translation_Context_OpenDescription": {
+		"message": "Where to show the translation after click on the context menu item?"
+	},
+
+	"Settings_Translation_Context_Tooltip": {
+		"message": "Tooltip"
+	},
+
+	"Settings_Translation_Context_NewTab": {
+		"message": "New tab"
+	},
+
+	"Settings_Translation_History": {
+		"message": "History of translations"
+	},
+
+	"Settings_Translation_History_Description": {
+		"message": "Everything what you translate is saved to the local cache. Except a possibility of browsing through the history, translation of the text, which has been already translated, is speeded up amazingly."
+	},
+
+	"Settings_Interface_AllVariants": {
+		"message": "All variants"
+	},
+
+	"Settings_Interface_AllVariants_Description": {
+		"message": "All available variants of the translation are shown."
+	},
+
+	"Settings_Interface_InstantTranslation": {
+		"message": "Instant translation"
+	},
+
+	"Settings_Interface_InstantTranslation_Description": {
+		"message": "The text in the text field is translated just after you finished typing it."
+	},
+
+	"Settings_Interface_Save": {
+		"message": "Save the value"
+	},
+
+	"Settings_Interface_Save_Description": {
+		"message": "The value of the text field in the pop-up window is saved when the window is being closed."
+	},
+
+	"History_Options_Delete": {
+		"message": "Clear the history of translations"
+	},
+
+	"History_Options_Delete_AllHeadline": {
+		"message": "Are you sure?"
+	},
+
+	"History_Options_Delete_AllProposal": {
+		"message": "Are you precisely sure that you want to clear the history of translations?"
+	},
+
+	"History_Options_Delete_AllPos": {
+		"message": "Yes"
+	},
+
+	"History_Options_Delete_AllNeg": {
+		"message": "No"
+	},
+
+	"History_Content_List_OnEmpty": {
+		"message": "The history is empty."
+	},
+
+	"History_Content_List_OnFindFailure": {
+		"message": "Nothing has been found."
+	},
+
+	"History_Content_List_AllLoaded": {
+		"message": "All items have been loaded."
+	},
+
+	"History_Content_List_Loading": {
+		"message": "Loading.."
+	},
+
+	"History_Content_List_ExpandButton": {
+		"message": "Expand"
+	},
+
+	"History_Content_List_CollapseButton": {
+		"message": "Collapse"
+	},
+
+	"History_Content_List_DeleteButton": {
+		"message": "Delete"
+	},
+
+	"Donate_Purpose": {
+		"message": "You can donate an arbitrary amount of money to support the developer, who maintains Instant Translate disinterestedly."
+	},
+
+	"Donate_PayPal": {
+		"message": "PayPal"
+	},
+
+	"Donate_YandexMoney": {
+		"message": "Yandex.Money"
+	},
+
+	"Donate_Webmoney": {
+		"message": "Webmoney"
+	},
+
+	"CommonUi_LangPart_Noun": {
+		"message": "Noun"
+	},
+
+	"CommonUi_LangPart_Verb": {
+		"message": "Verb"
+	},
+
+	"CommonUi_LangPart_Adjective": {
+		"message": "Adjective"
+	},
+
+	"CommonUi_LangPart_Adverb": {
+		"message": "Adverb"
+	},
+
+	"CommonUi_LangPart_Pronoun": {
+		"message": "Pronoun"
+	},
+
+	"CommonUi_LangPart_Preposition": {
+		"message": "Preposition"
+	},
+
+	"CommonUi_LangPart_Conjunction": {
+		"message": "Conjunction"
+	},
+
+	"CommonUi_LangPart_Interjection": {
+		"message": "Interjection"
+	},
+
+	"CommonUi_LangPart_Abbreviation": {
+		"message": "Abbreviation"
+	},
+
+	"CommonUi_LangPart_Phrase": {
+		"message": "Phrase"
+	}
+}

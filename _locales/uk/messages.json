@@ -1,0 +1,509 @@
+{
+  "Kernel_AppDescription": {
+    "message": "Миттєвий переклад виділеного тексту."
+  },
+
+  "Kernel_SettingsTitle": {
+    "message": "Налаштування"
+  },
+
+  "Kernel_HistoryTitle": {
+    "message": "Історія перекладів"
+  },
+
+  "Kernel_OptionEnabled": {
+    "message": "Увімкнено"
+  },
+
+  "Kernel_Plaque_TranslateTo": {
+    "message": "Перекласти на"
+  },
+
+  "Kernel_Network_Error": {
+    "message": "Помилка з'єднання"
+  },
+
+  "Kernel_Network_Error_DataLoading": {
+    "message": "Не вдалося завантажити дані через можливі проблеми з Інтернет з'єднанням."
+  },
+
+  "Kernel_Date_Jan": {
+    "message": "січ"
+  },
+
+  "Kernel_Date_Feb": {
+    "message": "лют"
+  },
+
+  "Kernel_Date_Mar": {
+    "message": "вер"
+  },
+
+  "Kernel_Date_Apr": {
+    "message": "кві"
+  },
+
+  "Kernel_Date_May": {
+    "message": "тра"
+  },
+
+  "Kernel_Date_Jun": {
+    "message": "чер"
+  },
+
+  "Kernel_Date_Jul": {
+    "message": "лип"
+  },
+
+  "Kernel_Date_Aug": {
+    "message": "сер"
+  },
+
+  "Kernel_Date_Sep": {
+    "message": "вер"
+  },
+
+  "Kernel_Date_Oct": {
+    "message": "жов"
+  },
+
+  "Kernel_Date_Nov": {
+    "message": "лис"
+  },
+
+  "Kernel_Date_Dec": {
+    "message": "гру"
+  },
+
+  "Kernel_Lang_Auto": {
+    "message": "Визнач. автоматично"
+  },
+
+  "Kernel_Lang_Afrikaans": {
+    "message": "Африкаанс"
+  },
+
+  "Kernel_Lang_Albanian": {
+    "message": "Албанська"
+  },
+
+  "Kernel_Lang_Arabic": {
+    "message": "Арабська"
+  },
+
+  "Kernel_Lang_Armenian": {
+    "message": "Вірменська"
+  },
+
+  "Kernel_Lang_Azerbaijani": {
+    "message": "Азербайджанська"
+  },
+
+  "Kernel_Lang_Basque": {
+    "message": "Баскська"
+  },
+
+  "Kernel_Lang_Belarusian": {
+    "message": "Білоруська"
+  },
+
+  "Kernel_Lang_Bengali": {
+    "message": "Бенгальська"
+  },
+
+  "Kernel_Lang_Bulgarian": {
+    "message": "Болгарська"
+  },
+
+  "Kernel_Lang_Catalan": {
+    "message": "Каталанська"
+  },
+
+  "Kernel_Lang_ChineseSimplified": {
+    "message": "Китайська спрощена"
+  },
+
+  "Kernel_Lang_ChineseTraditional": {
+    "message": "Китайська традиційна"
+  },
+
+  "Kernel_Lang_Croatian": {
+    "message": "Хорватська"
+  },
+
+  "Kernel_Lang_Czech": {
+    "message": "Чеська"
+  },
+
+  "Kernel_Lang_Danish": {
+    "message": "Данська"
+  },
+
+  "Kernel_Lang_Dutch": {
+    "message": "Голландська"
+  },
+
+  "Kernel_Lang_English": {
+    "message": "Англійська"
+  },
+
+  "Kernel_Lang_Esperanto": {
+    "message": "Есперанто"
+  },
+
+  "Kernel_Lang_Estonian": {
+    "message": "Естонська"
+  },
+
+  "Kernel_Lang_Filipino": {
+    "message": "Філіппінська"
+  },
+
+  "Kernel_Lang_Finnish": {
+    "message": "Фінська"
+  },
+
+  "Kernel_Lang_French": {
+    "message": "Французська"
+  },
+
+  "Kernel_Lang_Galician": {
+    "message": "Галісійська"
+  },
+
+  "Kernel_Lang_Georgian": {
+    "message": "Грузинська"
+  },
+
+  "Kernel_Lang_German": {
+    "message": "Німецька"
+  },
+
+  "Kernel_Lang_Greek": {
+    "message": "Грецька"
+  },
+
+  "Kernel_Lang_Gujarati": {
+    "message": "Гуджараті"
+  },
+
+  "Kernel_Lang_HaitianCreole": {
+    "message": "Креольська"
+  },
+
+  "Kernel_Lang_Hebrew": {
+    "message": "Іврит"
+  },
+
+  "Kernel_Lang_Hindi": {
+    "message": "Гінді"
+  },
+
+  "Kernel_Lang_Hungarian": {
+    "message": "Венгерська"
+  },
+
+  "Kernel_Lang_Icelandic": {
+    "message": "Ісландська"
+  },
+
+  "Kernel_Lang_Indonesian": {
+    "message": "Індонезійська"
+  },
+
+  "Kernel_Lang_Irish": {
+    "message": "Ірландська"
+  },
+
+  "Kernel_Lang_Italian": {
+    "message": "Італійська"
+  },
+
+  "Kernel_Lang_Japanese": {
+    "message": "Японська"
+  },
+
+  "Kernel_Lang_Kannada": {
+    "message": "Каннада"
+  },
+
+  "Kernel_Lang_Korean": {
+    "message": "Корейська"
+  },
+
+  "Kernel_Lang_Latin": {
+    "message": "Латинська"
+  },
+
+  "Kernel_Lang_Latvian": {
+    "message": "Латвійська"
+  },
+
+  "Kernel_Lang_Lithuanian": {
+    "message": "Литовська"
+  },
+
+  "Kernel_Lang_Macedonian": {
+    "message": "Македонська"
+  },
+
+  "Kernel_Lang_Malay": {
+    "message": "Малайська"
+  },
+
+  "Kernel_Lang_Maltese": {
+    "message": "Мальтійська"
+  },
+
+  "Kernel_Lang_Norwegian": {
+    "message": "Норвезька"
+  },
+
+  "Kernel_Lang_Persian": {
+    "message": "Перська"
+  },
+
+  "Kernel_Lang_Polish": {
+    "message": "Польська"
+  },
+
+  "Kernel_Lang_Portuguese": {
+    "message": "Португальська"
+  },
+
+  "Kernel_Lang_Romanian": {
+    "message": "Румунська"
+  },
+
+  "Kernel_Lang_Russian": {
+    "message": "Російська"
+  },
+
+  "Kernel_Lang_Serbian": {
+    "message": "Сербська"
+  },
+
+  "Kernel_Lang_Slovak": {
+    "message": "Словацька"
+  },
+
+  "Kernel_Lang_Slovenian": {
+    "message": "Словенська"
+  },
+
+  "Kernel_Lang_Spanish": {
+    "message": "Іспанська"
+  },
+
+  "Kernel_Lang_Swahili": {
+    "message": "Суахілі"
+  },
+
+  "Kernel_Lang_Swedish": {
+    "message": "Шведська"
+  },
+
+  "Kernel_Lang_Tamil": {
+    "message": "Тамільська"
+  },
+
+  "Kernel_Lang_Telugu": {
+    "message": "Телугу"
+  },
+
+  "Kernel_Lang_Thai": {
+    "message": "Тайська"
+  },
+
+  "Kernel_Lang_Turkish": {
+    "message": "Турецька"
+  },
+
+  "Kernel_Lang_Ukrainian": {
+    "message": "Українська"
+  },
+
+  "Kernel_Lang_Urdu": {
+    "message": "Урду"
+  },
+
+  "Kernel_Lang_Vietnamese": {
+    "message": "В'єтнамська"
+  },
+
+  "Kernel_Lang_Welsh": {
+    "message": "Валлійська"
+  },
+
+  "Kernel_Lang_Yiddish": {
+    "message": "Ідиш"
+  },
+
+  "Window_Content_TextareaPlaceholder": {
+    "message": "Введіть або скопіюйте текст сюди для того, щоб перекласти.."
+  },
+
+  "Window_Content_TranslateButton": {
+    "message": "Перекласти"
+  },
+
+  "Window_Content_RecentlyUsedLang": {
+    "message": "Нещодавно використ."
+  },
+
+  "Window_Content_AllLang": {
+    "message": "Усі"
+  },
+
+  "Settings_Tabs_Translation": {
+    "message": "Переклад"
+  },
+
+  "Settings_Tabs_Interface": {
+    "message": "Інтерфейс"
+  },
+
+  "Settings_Translation_KeyCombos": {
+    "message": "Поєднання клавіш"
+  },
+
+  "Settings_Translation_KeyCombos_Description": {
+    "message": "Виділений текст буде переклано, як тільки Ви задієте обране поєднання клавіш."
+  },
+
+  "Settings_Translation_Context": {
+    "message": "Контекстне меню"
+  },
+
+  "Settings_Translation_Context_Description": {
+    "message": "Кнопка, яка з'являється у контекстному меню, коли Ви виділяєте текст, та яка призвана полегчити переклад, коли Ви не в змозі використовувати клавіатуру."
+  },
+
+  "Settings_Translation_Context_OpenDescription": {
+    "message": "Де відображати переклад після натиснення на кнопку у контекстному меню?"
+  },
+
+  "Settings_Translation_Context_Tooltip": {
+    "message": "Сплив. вікно"
+  },
+
+  "Settings_Translation_Context_NewTab": {
+    "message": "Нова вкладка"
+  },
+
+  "Settings_Translation_History": {
+    "message": "Історія перекладів"
+  },
+
+  "Settings_Translation_History_Description": {
+    "message": "Усе, що Ви перекладаєте, зберегається в локальному кеші. Крім можливості переглядати історію, переклад тексту, який вже було переклано, прискорюється у багато разів."
+  },
+
+  "Settings_Interface_AllVariants": {
+    "message": "Усі варіанти"
+  },
+
+  "Settings_Interface_AllVariants_Description": {
+    "message": "Відображаються усі доступні варіанти перекладу."
+  },
+
+  "Settings_Interface_InstantTranslation": {
+    "message": "Миттєвий переклад"
+  },
+
+  "Settings_Interface_InstantTranslation_Description": {
+    "message": "У спливаючому вікні переклад виконується автоматично по закінченні друку."
+  },
+
+  "Settings_Interface_Save": {
+    "message": "Зберегати зміст"
+  },
+
+  "Settings_Interface_Save_Description": {
+    "message": "Зміст текстового поля у спливаючому вікні зберегається на випадок, якщо Ви випадково його закриєте."
+  },
+
+  "History_Options_Delete": {
+    "message": "Очистити історію перекладів"
+  },
+
+  "History_Options_Delete_AllHeadline": {
+    "message": "Ви впевнені?"
+  },
+
+  "History_Options_Delete_AllProposal": {
+    "message": "Ви дійсно впевнені, що хочете очистити історію перекладів?"
+  },
+
+  "History_Options_Delete_AllPos": {
+    "message": "Так"
+  },
+
+  "History_Options_Delete_AllNeg": {
+    "message": "Ні"
+  },
+
+  "History_Content_List_OnEmpty": {
+    "message": "Історія порожня."
+  },
+
+  "History_Content_List_OnFindFailure": {
+    "message": "Нічого не знайдено."
+  },
+
+  "History_Content_List_AllLoaded": {
+    "message": "Більше нічого немає."
+  },
+
+  "History_Content_List_ExpandButton": {
+    "message": "Розгорнути"
+  },
+
+  "History_Content_List_CollapseButton": {
+    "message": "Згорнути"
+  },
+
+  "History_Content_List_DeleteButton": {
+    "message": "Видалити"
+  },
+
+  "CommonUi_LangPart_Noun": {
+    "message": "Іменник"
+  },
+
+  "CommonUi_LangPart_Verb": {
+    "message": "Дієслово"
+  },
+
+  "CommonUi_LangPart_Adjective": {
+    "message": "Прикметник"
+  },
+
+  "CommonUi_LangPart_Adverb": {
+    "message": "Прислівник"
+  },
+
+  "CommonUi_LangPart_Pronoun": {
+    "message": "Займенник"
+  },
+
+  "CommonUi_LangPart_Preposition": {
+    "message": "Прийменник"
+  },
+
+  "CommonUi_LangPart_Conjunction": {
+    "message": "Союз"
+  },
+
+  "CommonUi_LangPart_Interjection": {
+    "message": "Вигук"
+  },
+
+  "CommonUi_LangPart_Abbreviation": {
+    "message": "Скорочення"
+  },
+
+  "CommonUi_LangPart_Phrase": {
+    "message": "Фраза"
+  }
+}

@@ -1,0 +1,509 @@
+{
+	"Kernel_AppDescription": {
+		"message": "Мгновенный перевод выделенного текста."
+	},
+
+	"Kernel_SettingsTitle": {
+		"message": "Настройки"
+	},
+
+	"Kernel_HistoryTitle": {
+		"message": "История переводов"
+	},
+
+	"Kernel_OptionEnabled": {
+		"message": "Включено"
+	},
+
+	"Kernel_Plaque_TranslateTo": {
+		"message": "Перевести на"
+	},
+
+	"Kernel_Network_Error": {
+		"message": "Ошибка соединения"
+	},
+
+	"Kernel_Network_Error_DataLoading": {
+		"message": "Не удалось загрузить данные из-за возможных проблем с Интернет соединением."
+	},
+
+	"Kernel_Date_Jan": {
+		"message": "янв"
+	},
+
+	"Kernel_Date_Feb": {
+		"message": "фев"
+	},
+
+	"Kernel_Date_Mar": {
+		"message": "мар"
+	},
+
+	"Kernel_Date_Apr": {
+		"message": "апр"
+	},
+
+	"Kernel_Date_May": {
+		"message": "мая"
+	},
+
+	"Kernel_Date_Jun": {
+		"message": "июн"
+	},
+
+	"Kernel_Date_Jul": {
+		"message": "июл"
+	},
+
+	"Kernel_Date_Aug": {
+		"message": "авг"
+	},
+
+	"Kernel_Date_Sep": {
+		"message": "сен"
+	},
+
+	"Kernel_Date_Oct": {
+		"message": "окт"
+	},
+
+	"Kernel_Date_Nov": {
+		"message": "ноя"
+	},
+
+	"Kernel_Date_Dec": {
+		"message": "дек"
+	},
+
+	"Kernel_Lang_Auto": {
+		"message": "Опред. автоматически"
+	},
+
+	"Kernel_Lang_Afrikaans": {
+		"message": "Африкаанс"
+	},
+
+	"Kernel_Lang_Albanian": {
+		"message": "Албанский"
+	},
+
+	"Kernel_Lang_Arabic": {
+		"message": "Арабский"
+	},
+
+	"Kernel_Lang_Armenian": {
+		"message": "Армянский"
+	},
+
+	"Kernel_Lang_Azerbaijani": {
+		"message": "Азербайджанский"
+	},
+
+	"Kernel_Lang_Basque": {
+		"message": "Баскский"
+	},
+
+	"Kernel_Lang_Belarusian": {
+		"message": "Белорусский"
+	},
+
+	"Kernel_Lang_Bengali": {
+		"message": "Бенгальский"
+	},
+
+	"Kernel_Lang_Bulgarian": {
+		"message": "Болгарский"
+	},
+
+	"Kernel_Lang_Catalan": {
+		"message": "Каталанский"
+	},
+
+	"Kernel_Lang_ChineseSimplified": {
+		"message": "Китайский упрощенный"
+	},
+
+	"Kernel_Lang_ChineseTraditional": {
+		"message": "Китайский традиционный"
+	},
+
+	"Kernel_Lang_Croatian": {
+		"message": "Хорватский"
+	},
+
+	"Kernel_Lang_Czech": {
+		"message": "Чешский"
+	},
+
+	"Kernel_Lang_Danish": {
+		"message": "Датский"
+	},
+
+	"Kernel_Lang_Dutch": {
+		"message": "Голландский"
+	},
+
+	"Kernel_Lang_English": {
+		"message": "Английский"
+	},
+
+	"Kernel_Lang_Esperanto": {
+		"message": "Эсперанто"
+	},
+
+	"Kernel_Lang_Estonian": {
+		"message": "Эстонский"
+	},
+
+	"Kernel_Lang_Filipino": {
+		"message": "Филиппинский"
+	},
+
+	"Kernel_Lang_Finnish": {
+		"message": "Финский"
+	},
+
+	"Kernel_Lang_French": {
+		"message": "Французский"
+	},
+
+	"Kernel_Lang_Galician": {
+		"message": "Галисийский"
+	},
+
+	"Kernel_Lang_Georgian": {
+		"message": "Грузинский"
+	},
+
+	"Kernel_Lang_German": {
+		"message": "Немецкий"
+	},
+
+	"Kernel_Lang_Greek": {
+		"message": "Греческий"
+	},
+
+	"Kernel_Lang_Gujarati": {
+		"message": "Гуджарати"
+	},
+
+	"Kernel_Lang_HaitianCreole": {
+		"message": "Креольский"
+	},
+
+	"Kernel_Lang_Hebrew": {
+		"message": "Иврит"
+	},
+
+	"Kernel_Lang_Hindi": {
+		"message": "Хинди"
+	},
+
+	"Kernel_Lang_Hungarian": {
+		"message": "Венгерский"
+	},
+
+	"Kernel_Lang_Icelandic": {
+		"message": "Исландский"
+	},
+
+	"Kernel_Lang_Indonesian": {
+		"message": "Индонезийский"
+	},
+
+	"Kernel_Lang_Irish": {
+		"message": "Ирландский"
+	},
+
+	"Kernel_Lang_Italian": {
+		"message": "Итальянский"
+	},
+
+	"Kernel_Lang_Japanese": {
+		"message": "Японский"
+	},
+
+	"Kernel_Lang_Kannada": {
+		"message": "Каннада"
+	},
+
+	"Kernel_Lang_Korean": {
+		"message": "Корейский"
+	},
+
+	"Kernel_Lang_Latin": {
+		"message": "Латинский"
+	},
+
+	"Kernel_Lang_Latvian": {
+		"message": "Латвийский"
+	},
+
+	"Kernel_Lang_Lithuanian": {
+		"message": "Литовский"
+	},
+
+	"Kernel_Lang_Macedonian": {
+		"message": "Македонский"
+	},
+
+	"Kernel_Lang_Malay": {
+		"message": "Малайский"
+	},
+
+	"Kernel_Lang_Maltese": {
+		"message": "Мальтийский"
+	},
+
+	"Kernel_Lang_Norwegian": {
+		"message": "Норвежский"
+	},
+
+	"Kernel_Lang_Persian": {
+		"message": "Персидский"
+	},
+
+	"Kernel_Lang_Polish": {
+		"message": "Польский"
+	},
+
+	"Kernel_Lang_Portuguese": {
+		"message": "Португальский"
+	},
+
+	"Kernel_Lang_Romanian": {
+		"message": "Румынский"
+	},
+
+	"Kernel_Lang_Russian": {
+		"message": "Русский"
+	},
+
+	"Kernel_Lang_Serbian": {
+		"message": "Сербский"
+	},
+
+	"Kernel_Lang_Slovak": {
+		"message": "Словацкий"
+	},
+
+	"Kernel_Lang_Slovenian": {
+		"message": "Словенский"
+	},
+
+	"Kernel_Lang_Spanish": {
+		"message": "Испанский"
+	},
+
+	"Kernel_Lang_Swahili": {
+		"message": "Суахили"
+	},
+
+	"Kernel_Lang_Swedish": {
+		"message": "Шведский"
+	},
+
+	"Kernel_Lang_Tamil": {
+		"message": "Тамильский"
+	},
+
+	"Kernel_Lang_Telugu": {
+		"message": "Телугу"
+	},
+
+	"Kernel_Lang_Thai": {
+		"message": "Тайский"
+	},
+
+	"Kernel_Lang_Turkish": {
+		"message": "Турецкий"
+	},
+
+	"Kernel_Lang_Ukrainian": {
+		"message": "Украинский"
+	},
+
+	"Kernel_Lang_Urdu": {
+		"message": "Урду"
+	},
+
+	"Kernel_Lang_Vietnamese": {
+		"message": "Вьетнамский"
+	},
+
+	"Kernel_Lang_Welsh": {
+		"message": "Валлийский"
+	},
+
+	"Kernel_Lang_Yiddish": {
+		"message": "Идиш"
+	},
+
+	"Window_Content_TextareaPlaceholder": {
+		"message": "Введите или скопируйте текст сюда, чтобы перевести.."
+	},
+
+	"Window_Content_TranslateButton": {
+		"message": "Перевести"
+	},
+
+	"Window_Content_RecentlyUsedLang": {
+		"message": "Недавно использ."
+	},
+
+	"Window_Content_AllLang": {
+		"message": "Все"
+	},
+
+	"Settings_Tabs_Translation": {
+		"message": "Перевод"
+	},
+
+	"Settings_Tabs_Interface": {
+		"message": "Интерфейс"
+	},
+
+	"Settings_Translation_KeyCombos": {
+		"message": "Сочетания клавиш"
+	},
+
+	"Settings_Translation_KeyCombos_Description": {
+		"message": "Выделенный текст будет переведен, как только Вы задействуете выбранное сочетание клавиш."
+	},
+
+	"Settings_Translation_Context": {
+		"message": "Контекстное меню"
+	},
+
+	"Settings_Translation_Context_Description": {
+		"message": "Кнопка, появляющаяся в контекстом меню браузера при выделении текста, которая призвана облегчить перевод, если Вам неудобно использовать клавиатуру."
+	},
+
+	"Settings_Translation_Context_OpenDescription": {
+		"message": "Где отображать перевод после нажатия на кнопку в контекстом меню?"
+	},
+
+	"Settings_Translation_Context_Tooltip": {
+		"message": "Всплыв. окно"
+	},
+
+	"Settings_Translation_Context_NewTab": {
+		"message": "Новая вкладка"
+	},
+
+	"Settings_Translation_History": {
+		"message": "История переводов"
+	},
+
+	"Settings_Translation_History_Description": {
+		"message": "Все, что Вы переводите, сохранятеся в локальный кэш. Помимо возможности просмотра истории, перевод текста, который уже был переден ранее, ускоряется во много раз."
+	},
+
+	"Settings_Interface_AllVariants": {
+		"message": "Все варианты"
+	},
+
+	"Settings_Interface_AllVariants_Description": {
+		"message": "Отображаются все доступные варианты перевода."
+	},
+
+	"Settings_Interface_InstantTranslation": {
+		"message": "Мгновенный перевод"
+	},
+
+	"Settings_Interface_InstantTranslation_Description": {
+		"message": "Во всплывающем окне перевод осуществляется автоматически по окончании печати."
+	},
+
+	"Settings_Interface_Save": {
+		"message": "Сохранять содержимое"
+	},
+
+	"Settings_Interface_Save_Description": {
+		"message": "Содержимое текстового поля во всплывающем окне сохраняется на случай, если Вы нечаянно его закроете."
+	},
+
+	"History_Options_Delete": {
+		"message": "Очистить историю переводов"
+	},
+
+	"History_Options_Delete_AllHeadline": {
+		"message": "Вы уверены?"
+	},
+
+	"History_Options_Delete_AllProposal": {
+		"message": "Вы действительно уверены, что хотите очистить историю переводов?"
+	},
+
+	"History_Options_Delete_AllPos": {
+		"message": "Да"
+	},
+
+	"History_Options_Delete_AllNeg": {
+		"message": "Нет"
+	},
+
+	"History_Content_List_OnEmpty": {
+		"message": "История пуста."
+	},
+
+	"History_Content_List_OnFindFailure": {
+		"message": "Ничего не найдено."
+	},
+
+	"History_Content_List_AllLoaded": {
+		"message": "Больше ничего нет."
+	},
+
+	"History_Content_List_ExpandButton": {
+		"message": "Развернуть"
+	},
+
+	"History_Content_List_CollapseButton": {
+		"message": "Свернуть"
+	},
+
+	"History_Content_List_DeleteButton": {
+		"message": "Удалить"
+	},
+
+	"CommonUi_LangPart_Noun": {
+		"message": "Существительное"
+	},
+
+	"CommonUi_LangPart_Verb": {
+		"message": "Глагол"
+	},
+
+	"CommonUi_LangPart_Adjective": {
+		"message": "Прилагательное"
+	},
+
+	"CommonUi_LangPart_Adverb": {
+		"message": "Наречие"
+	},
+
+	"CommonUi_LangPart_Pronoun": {
+		"message": "Местоимение"
+	},
+
+	"CommonUi_LangPart_Preposition": {
+		"message": "Предлог"
+	},
+
+	"CommonUi_LangPart_Conjunction": {
+		"message": "Союз"
+	},
+
+	"CommonUi_LangPart_Interjection": {
+		"message": "Междометие"
+	},
+
+	"CommonUi_LangPart_Abbreviation": {
+		"message": "Сокращение"
+	},
+
+	"CommonUi_LangPart_Phrase": {
+		"message": "Фраза"
+	}
+}
