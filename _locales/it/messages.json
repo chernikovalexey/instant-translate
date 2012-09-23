@@ -1,34 +1,34 @@
 {
   "Kernel_AppDescription": {
-    "message": "Instant translation of a selected text."
+    "message": "Traduzione istantanea del testo selezionato"
   },
 
   "Kernel_SettingsTitle": {
-    "message": "Settings"
+    "message": "Impostazioni"
   },
 
   "Kernel_HistoryTitle": {
-    "message": "History of translations"
+    "message": "Cronologia delle traduzioni"
   },
 
   "Kernel_OptionEnabled": {
-    "message": "Enabled"
+    "message": "Abilitato"
   },
 
   "Kernel_Plaque_TranslateTo": {
-    "message": "Translate to"
+    "message": "Tradurre in"
   },
 
   "Kernel_Network_Error": {
-    "message": "Connection error"
+    "message": "Errore di connessione"
   },
 
   "Kernel_Network_Error_DataLoading": {
-    "message": "Could not load data due to possible problems with the Internet connection."
+    "message": "I dati non possono essere caricati a causa di possibili problemi con la connessione Internet"
   },
 
   "Kernel_Lang_Auto": {
-    "message": "Automatic detection"
+    "message": "Rileva automaticamente"
   },
 
   "Kernel_Lang_Afrikaans": {
@@ -36,27 +36,27 @@
   },
 
   "Kernel_Lang_Albanian": {
-    "message": "Albanian"
+    "message": "Albanese"
   },
 
   "Kernel_Lang_Arabic": {
-    "message": "Arabic"
+    "message": "Arabo"
   },
 
   "Kernel_Lang_Armenian": {
-    "message": "Armenian"
+    "message": "Armeno"
   },
 
   "Kernel_Lang_Azerbaijani": {
-    "message": "Azerbaijani"
+    "message": "Azero"
   },
 
   "Kernel_Lang_Basque": {
-    "message": "Basque"
+    "message": "Basco"
   },
 
   "Kernel_Lang_Belarusian": {
-    "message": "Belarusian"
+    "message": "Bielorusso"
   },
 
   "Kernel_Lang_Bengali": {
