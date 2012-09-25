@@ -1,34 +1,34 @@
 {
   "Kernel_AppDescription": {
-    "message": "Instant translation of a selected text."
+    "message": "Traduzione istantanea del testo selezionato"
   },
 
   "Kernel_SettingsTitle": {
-    "message": "Settings"
+    "message": "Impostazioni"
   },
 
   "Kernel_HistoryTitle": {
-    "message": "History of translations"
+    "message": "Cronologia delle traduzioni"
   },
 
   "Kernel_OptionEnabled": {
-    "message": "Enabled"
+    "message": "Abilitato"
   },
 
   "Kernel_Plaque_TranslateTo": {
-    "message": "Translate to"
+    "message": "Tradurre in"
   },
 
   "Kernel_Network_Error": {
-    "message": "Connection error"
+    "message": "Errore di connessione"
   },
 
   "Kernel_Network_Error_DataLoading": {
-    "message": "Could not load data due to possible problems with the Internet connection."
+    "message": "I dati non possono essere caricati a causa di possibili problemi con la connessione Internet"
   },
 
   "Kernel_Lang_Auto": {
-    "message": "Automatic detection"
+    "message": "Rileva automaticamente"
   },
 
   "Kernel_Lang_Afrikaans": {
@@ -36,67 +36,67 @@
   },
 
   "Kernel_Lang_Albanian": {
-    "message": "Albanian"
+    "message": "Albanese"
   },
 
   "Kernel_Lang_Arabic": {
-    "message": "Arabic"
+    "message": "Arabo"
   },
 
   "Kernel_Lang_Armenian": {
-    "message": "Armenian"
+    "message": "Armeno"
   },
 
   "Kernel_Lang_Azerbaijani": {
-    "message": "Azerbaijani"
+    "message": "Azero"
   },
 
   "Kernel_Lang_Basque": {
-    "message": "Basque"
+    "message": "Basco"
   },
 
   "Kernel_Lang_Belarusian": {
-    "message": "Belarusian"
+    "message": "Bielorusso"
   },
 
   "Kernel_Lang_Bengali": {
-    "message": "Bengali"
+    "message": "Bengalese"
   },
 
   "Kernel_Lang_Bulgarian": {
-    "message": "Bulgarian"
+    "message": "Bulgaro"
   },
 
   "Kernel_Lang_Catalan": {
-    "message": "Catalan"
+    "message": "Catalano"
   },
 
   "Kernel_Lang_ChineseSimplified": {
-    "message": "Simplified Chinese"
+    "message": "Cinese Semplificato"
   },
 
   "Kernel_Lang_ChineseTraditional": {
-    "message": "Traditional Chinese"
+    "message": "Cinese tradizionale"
   },
 
   "Kernel_Lang_Croatian": {
-    "message": "Croatian"
+    "message": "Croato"
   },
 
   "Kernel_Lang_Czech": {
-    "message": "Czech"
+    "message": "Ceco"
   },
 
   "Kernel_Lang_Danish": {
-    "message": "Danish"
+    "message": "Danese"
   },
 
   "Kernel_Lang_Dutch": {
-    "message": "Dutch"
+    "message": "Olandese"
   },
 
   "Kernel_Lang_English": {
-    "message": "English"
+    "message": "Inglese"
   },
 
   "Kernel_Lang_Esperanto": {
@@ -104,35 +104,35 @@
   },
 
   "Kernel_Lang_Estonian": {
-    "message": "Estonian"
+    "message": "Estonia"
   },
 
   "Kernel_Lang_Filipino": {
-    "message": "Filipino"
+    "message": "Filippino"
   },
 
   "Kernel_Lang_Finnish": {
-    "message": "Finnish"
+    "message": "Finlandese"
   },
 
   "Kernel_Lang_French": {
-    "message": "French"
+    "message": "Francese"
   },
 
   "Kernel_Lang_Galician": {
-    "message": "Galician"
+    "message": "Galiziano"
   },
 
   "Kernel_Lang_Georgian": {
-    "message": "Georgian"
+    "message": "Georgiano"
   },
 
   "Kernel_Lang_German": {
-    "message": "German"
+    "message": "Tedesco"
   },
 
   "Kernel_Lang_Greek": {
-    "message": "Greek"
+    "message": "Greco"
   },
 
   "Kernel_Lang_Gujarati": {
@@ -140,39 +140,39 @@
   },
 
   "Kernel_Lang_HaitianCreole": {
-    "message": "Haitian Creole"
+    "message": "Creolo haitiano"
   },
 
   "Kernel_Lang_Hebrew": {
-    "message": "Hebrew"
+    "message": "Ebraico"
   },
 
   "Kernel_Lang_Hindi": {
-    "message": "Hindi"
+    "message": "Indiano"
   },
 
   "Kernel_Lang_Hungarian": {
-    "message": "Hungarian"
+    "message": "Ungherese"
   },
 
   "Kernel_Lang_Icelandic": {
-    "message": "Icelandic"
+    "message": "Islandese"
   },
 
   "Kernel_Lang_Indonesian": {
-    "message": "Indonesian"
+    "message": "Indonesiano"
   },
 
   "Kernel_Lang_Irish": {
-    "message": "Irish"
+    "message": "Irlandese"
   },
 
   "Kernel_Lang_Italian": {
-    "message": "Italian"
+    "message": "Italiano"
   },
 
   "Kernel_Lang_Japanese": {
-    "message": "Japanese"
+    "message": "Giapponese"
   },
 
   "Kernel_Lang_Kannada": {
@@ -180,27 +180,27 @@
   },
 
   "Kernel_Lang_Korean": {
-    "message": "Korean"
+    "message": "Coreano"
   },
 
   "Kernel_Lang_Latin": {
-    "message": "Latin"
+    "message": "Latino"
   },
 
   "Kernel_Lang_Latvian": {
-    "message": "Latvian"
+    "message": "Lettone"
   },
 
   "Kernel_Lang_Lithuanian": {
-    "message": "Lithuanian"
+    "message": "Lituano"
   },
 
   "Kernel_Lang_Macedonian": {
-    "message": "Macedonian"
+    "message": "Macedone"
   },
 
   "Kernel_Lang_Malay": {
-    "message": "Malay"
+    "message": "Malese"
   },
 
   "Kernel_Lang_Maltese": {
@@ -208,43 +208,43 @@
   },
 
   "Kernel_Lang_Norwegian": {
-    "message": "Norwegian"
+    "message": "Norvegese"
   },
 
   "Kernel_Lang_Persian": {
-    "message": "Persian"
+    "message": "Persiano"
   },
 
   "Kernel_Lang_Polish": {
-    "message": "Polish"
+    "message": "Polacco"
   },
 
   "Kernel_Lang_Portuguese": {
-    "message": "Portuguese"
+    "message": "Portoghese"
   },
 
   "Kernel_Lang_Romanian": {
-    "message": "Romanian"
+    "message": "Romano"
   },
 
   "Kernel_Lang_Russian": {
-    "message": "Russian"
+    "message": "Russo"
   },
 
   "Kernel_Lang_Serbian": {
-    "message": "Serbian"
+    "message": "Serbo"
   },
 
   "Kernel_Lang_Slovak": {
-    "message": "Slovak"
+    "message": "Slovacco"
   },
 
   "Kernel_Lang_Slovenian": {
-    "message": "Slovenian"
+    "message": "Sloveno"
   },
 
   "Kernel_Lang_Spanish": {
-    "message": "Spanish"
+    "message": "Spagnolo"
   },
 
   "Kernel_Lang_Swahili": {
@@ -252,7 +252,7 @@
   },
 
   "Kernel_Lang_Swedish": {
-    "message": "Swedish"
+    "message": "Svedese"
   },
 
   "Kernel_Lang_Tamil": {
@@ -268,11 +268,11 @@
   },
 
   "Kernel_Lang_Turkish": {
-    "message": "Turkish"
+    "message": "Turco"
   },
 
   "Kernel_Lang_Ukrainian": {
-    "message": "Ukrainian"
+    "message": "Ucraino"
   },
 
   "Kernel_Lang_Urdu": {
@@ -280,11 +280,11 @@
   },
 
   "Kernel_Lang_Vietnamese": {
-    "message": "Vietnamese"
+    "message": "Vietnamita"
   },
 
   "Kernel_Lang_Welsh": {
-    "message": "Welsh"
+    "message": "Gallese"
   },
 
   "Kernel_Lang_Yiddish": {
@@ -292,47 +292,47 @@
   },
 
   "Window_Content_TextareaPlaceholder": {
-    "message": "Enter or copy a text here to translate.."
+    "message": "Inserisci o copia il testo quì per tradurre.."
   },
 
   "Window_Content_TranslateButton": {
-    "message": "Translate"
+    "message": "Traduci"
   },
 
   "Window_Content_RecentlyUsedLang": {
-    "message": "Recently used"
+    "message": "Usato recentemente"
   },
 
   "Window_Content_AllLang": {
-    "message": "All"
+    "message": "Tutti"
   },
 
   "Settings_Tabs_Translation": {
-    "message": "Translation"
+    "message": "Traduzione"
   },
 
   "Settings_Tabs_Interface": {
-    "message": "Interface"
+    "message": "Interfaccia"
   },
 
   "Settings_Translation_KeyCombos": {
-    "message": "Key combinations"
+    "message": "Tasti rapidi"
   },
 
   "Settings_Translation_KeyCombos_Description": {
-    "message": "Selected text is translated when you press the specified key combination."
+    "message": "Il testo selezionato sarà tradotto al momento della pressione dei tasti rapidi scelti."
   },
 
   "Settings_Translation_Context": {
-    "message": "Context menu"
+    "message": "Menu di scelta rapida"
   },
 
   "Settings_Translation_Context_Description": {
-    "message": "A button which is appended to the context menu of the browser and which is designed to ease translation, when you are not able to use the keyboard."
+    "message": "Un pulsante che viene aggiunto al menu di scelta rapida del browser e che è stato progettato per facilitare la traduzione, quando non si è in grado di utilizzare la tastiera. 
   },
 
   "Settings_Translation_Context_OpenDescription": {
-    "message": "Where to show the translation after click on the context menu item?"
+    "message": "Dove visualizzare la traduzione dopo aver cliccato sulla voce di menu di scelta rapida?"
   },
 
   "Settings_Translation_Context_Tooltip": {
@@ -340,55 +340,55 @@
   },
 
   "Settings_Translation_Context_NewTab": {
-    "message": "New tab"
+    "message": "Nuova scheda"
   },
 
   "Settings_Translation_History": {
-    "message": "History of translations"
+    "message": "Cronologia delle traduzioni"
   },
 
   "Settings_Translation_History_Description": {
-    "message": "Everything what you translate is saved to the local cache. Except a possibility of browsing through the history, translation of the text, which has been already translated, is speeded up amazingly."
+    "message": "Ogni parola tradotta viene salvata nella cache locale. Tranne la possibilità di navigare attraverso la cronologia, traduzione del testo che è stato già tradotto, viene accelerato incredibilmente."
   },
 
   "Settings_Interface_AllVariants": {
-    "message": "All variants"
+    "message": "Tutte le varianti"
   },
 
   "Settings_Interface_AllVariants_Description": {
-    "message": "All available variants of the translation are shown."
+    "message": "Sono mostrate tutte le varianti disponibili della traduzione"
   },
 
   "Settings_Interface_InstantTranslation": {
-    "message": "Instant translation"
+    "message": "Traduzione istantanea"
   },
 
   "Settings_Interface_InstantTranslation_Description": {
-    "message": "The text in the text field is translated just after you finished typing it."
+    "message": "Il testo inserito sarà tradotto non appena finirai di scriverlo."
   },
 
   "Settings_Interface_Save": {
-    "message": "Save the value"
+    "message": "Salva il valore"
   },
 
   "Settings_Interface_Save_Description": {
-    "message": "The value of the text field in the pop-up window is saved when the window is being closed."
+    "message": "Il valore del campo di testo nella finestra pop-up viene salvato quando la finestra viene chiusa."
   },
 
   "History_Options_Delete": {
-    "message": "Clear the history of translations"
+    "message": "Cancella la cronologia delle traduzioni"
   },
 
   "History_Options_Delete_AllHeadline": {
-    "message": "Are you sure?"
+    "message": "Sei sicuro?"
   },
 
   "History_Options_Delete_AllProposal": {
-    "message": "Are you precisely sure that you want to clear the history of translations?"
+    "message": "Sei proprio sicuro di voler cancellare la cronologia delle traduzioni?"
   },
 
   "History_Options_Delete_AllPos": {
-    "message": "Yes"
+    "message": "Si"
   },
 
   "History_Options_Delete_AllNeg": {
@@ -396,70 +396,70 @@
   },
 
   "History_Content_List_OnEmpty": {
-    "message": "The history is empty."
+    "message": "La cronologia è vuota."
   },
 
   "History_Content_List_OnFindFailure": {
-    "message": "Nothing has been found."
+    "message": "Non è stato trovato niente."
   },
 
   "History_Content_List_AllLoaded": {
-    "message": "All items have been loaded."
+    "message": "Tutte le voci sono state caricate."
   },
 
   "History_Content_List_Loading": {
-    "message": "Loading.."
+    "message": "Caricamento.."
   },
 
   "History_Content_List_ExpandButton": {
-    "message": "Expand"
+    "message": "Espandi"
   },
 
   "History_Content_List_CollapseButton": {
-    "message": "Collapse"
+    "message": "Contrai"
   },
 
   "History_Content_List_DeleteButton": {
-    "message": "Delete"
+    "message": "Cancella"
   },
 
   "CommonUi_LangPart_Noun": {
-    "message": "Noun"
+    "message": "Nome"
   },
 
   "CommonUi_LangPart_Verb": {
-    "message": "Verb"
+    "message": "Verbo"
   },
 
   "CommonUi_LangPart_Adjective": {
-    "message": "Adjective"
+    "message": "Aggettivo"
   },
 
   "CommonUi_LangPart_Adverb": {
-    "message": "Adverb"
+    "message": "Avverbio"
   },
 
   "CommonUi_LangPart_Pronoun": {
-    "message": "Pronoun"
+    "message": "Pronome"
   },
 
   "CommonUi_LangPart_Preposition": {
-    "message": "Preposition"
+    "message": "Preposizione"
   },
 
   "CommonUi_LangPart_Conjunction": {
-    "message": "Conjunction"
+    "message": "Congiunzione"
   },
 
   "CommonUi_LangPart_Interjection": {
-    "message": "Interjection"
+    "message": "interiezione"
   },
 
   "CommonUi_LangPart_Abbreviation": {
-    "message": "Abbreviation"
+    "message": "Abbreviazione"
   },
 
   "CommonUi_LangPart_Phrase": {
-    "message": "Phrase"
+    "message": "Frase"
   }
 }
